@@ -1,3 +1,5 @@
+
+
 # EL RINCÓN DE LA HADA
 
 
@@ -5,6 +7,8 @@
 Una experiencia de pedido sencilla, directa y personalizada.
 
 **No contamos con sucursal física.**
+
+<img width="920" height="439" alt="image" src="https://github.com/user-attachments/assets/ca448677-64d8-4e12-96ee-6f51f073cdfb" />
 
 
 Actualmente trabajamos bajo pedido desde nuestra cocina y coordinamos cada solicitud directamente contigo.
