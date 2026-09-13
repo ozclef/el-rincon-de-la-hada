@@ -27,12 +27,20 @@ Consulta los productos disponibles y conoce sus detalles.
 
 **Transparencia** Conoce qué estás solicitando y el total antes de confirmar.
 
-**Atención directa** Puedes comunicarte directamente para resolver dudas o detalles de tu pedido. **Preparación bajo pedido** 
+**Atención directa** Puedes comunicarte directamente para resolver dudas o detalles de tu pedido. 
 
-Trabajamos conforme a las solicitudes recibidas y la disponibilidad del momento.
+**Preparación bajo pedido**  Trabajamos conforme a las solicitudes recibidas y la disponibilidad del momento.
 
-**Entrega coordinada** Los detalles de entrega se acuerdan directamente contigo. --- ## Comienza aquí **Ver menú** Explora los productos disponibles. **Realizar un pedido** 
+**Entrega coordinada** Los detalles de entrega se acuerdan directamente contigo. 
 
+---
+
+## Comienza aquí
+
+
+**Ver menú** Explora los productos disponibles. 
+
+**Realizar un pedido** 
 Selecciona tus productos y continúa con la solicitud.
 
 **Conocer más sobre nosotros** Consulta nuestra información y forma de trabajo. 
