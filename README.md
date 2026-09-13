@@ -7,7 +7,9 @@ Una experiencia de pedido sencilla, directa y personalizada.
 **No contamos con sucursal física.**
 
 
-Actualmente trabajamos bajo pedido desde nuestra cocina y coordinamos cada solicitud directamente contigo. ### ¿Cómo funciona?
+Actualmente trabajamos bajo pedido desde nuestra cocina y coordinamos cada solicitud directamente contigo.
+
+### ¿Cómo funciona?
 
 **1. Explora nuestro menú** 
 Consulta los productos disponibles y conoce sus detalles. 
