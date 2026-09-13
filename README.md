@@ -1,3 +1,40 @@
 # EL RINCÓN DE LA HADA
+
+
 ## Comida preparada bajo pedido
-Una experiencia de pedido sencilla, directa y personalizada. **No contamos con sucursal física.** Actualmente trabajamos bajo pedido desde nuestra cocina y coordinamos cada solicitud directamente contigo. ### ¿Cómo funciona? **1. Explora nuestro menú** Consulta los productos disponibles y conoce sus detalles. **2. Arma tu pedido** Selecciona lo que deseas y revisa tu carrito antes de continuar. **3. Confirma tu solicitud** Revisamos disponibilidad, cantidades, total y detalles de entrega antes de preparar tu pedido. **4. Recibe tu pedido** Coordinamos contigo la entrega y te mantenemos informado durante el proceso. ### Atención bajo pedido Trabajamos con una cantidad limitada de pedidos para mantener una atención directa y organizada. Cada solicitud es revisada individualmente antes de su confirmación. **Sin sucursal física. Sin atención masiva. Un pedido a la vez, con atención personal.** --- ### Tu pedido, de principio a fin **Transparencia** Conoce qué estás solicitando y el total antes de confirmar. **Atención directa** Puedes comunicarte directamente para resolver dudas o detalles de tu pedido. **Preparación bajo pedido** Trabajamos conforme a las solicitudes recibidas y la disponibilidad del momento. **Entrega coordinada** Los detalles de entrega se acuerdan directamente contigo. --- ## Comienza aquí **Ver menú** Explora los productos disponibles. **Realizar un pedido** Selecciona tus productos y continúa con la solicitud. **Conocer más sobre nosotros** Consulta nuestra información y forma de trabajo. > *La disponibilidad, tiempos y condiciones de entrega pueden variar según el pedido, ubicación y capacidad del servicio.*
+Una experiencia de pedido sencilla, directa y personalizada.
+
+**No contamos con sucursal física.**
+
+
+Actualmente trabajamos bajo pedido desde nuestra cocina y coordinamos cada solicitud directamente contigo. ### ¿Cómo funciona?
+
+**1. Explora nuestro menú** 
+Consulta los productos disponibles y conoce sus detalles. 
+
+**2. Arma tu pedido** Selecciona lo que deseas y revisa tu carrito antes de continuar.
+
+**3. Confirma tu solicitud** Revisamos disponibilidad, cantidades, total y detalles de entrega antes de preparar tu pedido. 
+
+**4. Recibe tu pedido** Coordinamos contigo la entrega y te mantenemos informado durante el proceso. ### Atención bajo pedido Trabajamos con una cantidad limitada de pedidos para mantener una atención directa y organizada. Cada solicitud es revisada individualmente antes de su confirmación.
+
+
+**Sin sucursal física. Sin atención masiva. Un pedido a la vez, con atención personal.** --- 
+
+
+### Tu pedido, de principio a fin
+
+
+**Transparencia** Conoce qué estás solicitando y el total antes de confirmar.
+
+**Atención directa** Puedes comunicarte directamente para resolver dudas o detalles de tu pedido. **Preparación bajo pedido** 
+
+Trabajamos conforme a las solicitudes recibidas y la disponibilidad del momento.
+
+**Entrega coordinada** Los detalles de entrega se acuerdan directamente contigo. --- ## Comienza aquí **Ver menú** Explora los productos disponibles. **Realizar un pedido** 
+
+Selecciona tus productos y continúa con la solicitud.
+
+**Conocer más sobre nosotros** Consulta nuestra información y forma de trabajo. 
+
+> *La disponibilidad, tiempos y condiciones de entrega pueden variar según el pedido, ubicación y capacidad del servicio.*
