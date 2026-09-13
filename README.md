@@ -18,10 +18,14 @@ Consulta los productos disponibles y conoce sus detalles.
 
 **3. Confirma tu solicitud** Revisamos disponibilidad, cantidades, total y detalles de entrega antes de preparar tu pedido. 
 
-**4. Recibe tu pedido** Coordinamos contigo la entrega y te mantenemos informado durante el proceso. ### Atención bajo pedido Trabajamos con una cantidad limitada de pedidos para mantener una atención directa y organizada. Cada solicitud es revisada individualmente antes de su confirmación.
+**4. Recibe tu pedido** Coordinamos contigo la entrega y te mantenemos informado durante el proceso. 
+
+### Atención bajo pedido Trabajamos con una cantidad limitada de pedidos para mantener una atención directa y organizada. Cada solicitud es revisada individualmente antes de su confirmación.
 
 
-**Sin sucursal física. Sin atención masiva. Un pedido a la vez, con atención personal.** --- 
+**Sin sucursal física. Sin atención masiva. Un pedido a la vez, con atención personal.**
+
+--- 
 
 
 ### Tu pedido, de principio a fin
