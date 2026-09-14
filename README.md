@@ -1,10 +1,15 @@
 
 
+
+
+
 # EL RINCÓN DE LA HADA
 
 
 ## Comida preparada bajo pedido
 Una experiencia de pedido sencilla, directa y personalizada.
+
+<img width="1254" height="1254" alt="ChatGPT Image 13 sept 2026, 06_22_17 p m" src="https://github.com/user-attachments/assets/e65b2436-d1eb-475d-a457-edb93bc74d08" />
 
 **No contamos con sucursal física.**
 
